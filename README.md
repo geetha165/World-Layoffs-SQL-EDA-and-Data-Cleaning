@@ -13,3 +13,10 @@ This project focuses on performing data cleaning and exploratory data analysis (
 - Standardized inconsistent formatting (e.g., date formats, casing)
 - Filtered invalid or unrealistic entries
 - Converted Excel sheet into a usable SQL table
+
+ ## 📊 EDA Highlights
+- Total layoffs by country, year, and company
+- Layoffs by industry and headcount
+- Top 10 companies with highest layoffs
+- Time-based trends in layoffs
+- Percentage calculations and aggregations 
