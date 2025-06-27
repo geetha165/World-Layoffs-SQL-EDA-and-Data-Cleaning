@@ -25,3 +25,6 @@ This project focuses on performing data cleaning and exploratory data analysis (
 - MySQL Workbench
 - Excel (for initial data review and import)
 - SQL (for all data transformation and analysis)
+
+## 📌 Insights
+The EDA uncovered key trends in layoff patterns by industry and geography, helping understand how global events influenced employment across tech and non-tech sectors.
