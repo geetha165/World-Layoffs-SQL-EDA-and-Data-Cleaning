@@ -28,3 +28,12 @@ This project focuses on performing data cleaning and exploratory data analysis (
 
 ## 📌 Insights
 The EDA uncovered key trends in layoff patterns by industry and geography, helping understand how global events influenced employment across tech and non-tech sectors.
+
+## ✅ Final Conclusion
+
+Through this project, SQL was effectively used to clean and analyze real-world layoff data. The process involved removing inconsistencies, handling missing values, and transforming raw data into meaningful insights.
+
+The exploratory data analysis revealed key patterns such as:
+- Layoffs were significantly higher in the tech sector.
+- The United States recorded the highest number of layoffs.
+- A small number of companies accounted for the majority of job cuts.
