@@ -20,3 +20,8 @@ This project focuses on performing data cleaning and exploratory data analysis (
 - Top 10 companies with highest layoffs
 - Time-based trends in layoffs
 - Percentage calculations and aggregations 
+
+## 🛠 Tools Used
+- MySQL Workbench
+- Excel (for initial data review and import)
+- SQL (for all data transformation and analysis)
