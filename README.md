@@ -1,4 +1,4 @@
-# World Layoffs-SQl EDA and Data Cleaning Project
+# World Layoffs-EDA and Data Cleaning Project in SQl
 
 This project focuses on performing data cleaning and exploratory data analysis (EDA) using SQL on the "World Layoffs" dataset.
 
